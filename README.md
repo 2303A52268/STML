@@ -18,3 +18,6 @@ https://github.com/2303A52268/STML/blob/main/STML_ASS(6).ipynb
 
 Week-7
 https://github.com/2303A52268/STML/blob/main/STML_Ass(7).ipynb
+
+Week-8
+https://github.com/2303A52268/STML/blob/main/STML_Ass(8).ipynb
