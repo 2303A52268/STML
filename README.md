@@ -30,3 +30,6 @@ https://github.com/2303A52268/STML/blob/main/Stml_Ass_10.ipynb
 
 Week-11:
 https://github.com/2303A52268/STML/blob/main/Stml_Ass_11.ipynb
+
+Project link:
+https://github.com/2303A52268/STML/blob/main/STML_Project(2268).ipynb
